@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Generic - Hyperspace by HTML5 UP</title>
+		<title>3D brain model</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -14,17 +14,17 @@
 	</head>
 	<body class="is-preload">
 
-		<!-- Header -->
-			<header id="header">
-				<a href="index.html" class="title">Hyperspace</a>
-				<nav>
-					<ul>
-						<li><a href="index.html">Home</a></li>
-						<li><a href="generic.html" class="active">Generic</a></li>
-						<li><a href="elements.html">Elements</a></li>
-					</ul>
-				</nav>
-			</header>
+	<!-- Header -->
+	<header id="header">
+		<a href="index.html" class="title">Sudoku solver</a>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<!--						<li><a href="generic.html" class="active">Sudoku solver</a></li>-->
+				<!--						<li><a href="elements.html">Elements</a></li>-->
+			</ul>
+		</nav>
+	</header>
 
 		<!-- Wrapper -->
 			<div id="wrapper">
@@ -32,10 +32,22 @@
 				<!-- Main -->
 					<section id="main" class="wrapper">
 						<div class="inner">
-							<h1 class="major">A Generic Page</h1>
-							<span class="image fit"><img src="images/pic04.jpg" alt="" /></span>
-							<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.</p>
-							<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+							<h1 class="major">3D brain model creator</h1>
+							<div class="row">
+								<div class="col-5"><span class="image fit"><img src="images/brain_with_mesh_no_legend.gif" alt=""/></span></div>
+								<div class="col-5"><span class="image fit"><img src="images/Inner_brain_no_legend.png" alt=""/></span></div>
+								<div class="col-2"><span class="image fit" style="display: inline-block"><img src="images/Legend.png" alt="" style="vertical-align: middle"/></span></div>
+						</div>
+							<h3>Technology used</h3>
+							<ul>
+								<li>Python </li>
+								<li>FreeSurfer (brain segmenting tool) </li>
+							</ul>
+							<p> This project was a large component of my postdoctoral research position. Using MRi data and segmenting it using
+								the open source software FreeSurfer one can create a three dimensional computation model to be used in a finite element
+								analysis. These model are made up of quadrahedral elements (voxels) that have been smoothed. Layers of CSF can also be added
+								to the model. The model is segmented into 9 regions (and possibly the inclusion of a lesion or tumor)
+							</p>
 						</div>
 					</section>
 
@@ -45,7 +57,7 @@
 			<footer id="footer" class="wrapper alt">
 				<div class="inner">
 					<ul class="menu">
-						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						<li>&copy; Emma Griffiths. All rights reserved. 2023</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 					</ul>
 				</div>
 			</footer>
