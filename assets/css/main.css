@@ -3972,3 +3972,6 @@ input, select, textarea {
 			}
 
 		}
+        .checked {
+          color: orange;
+        }

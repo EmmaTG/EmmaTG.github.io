@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="character.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-center="true"
+     inkscape:zoom="1.3757631"
+     inkscape:cx="331.08897"
+     inkscape:cy="472.10161"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#291447;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stop-color:#000000;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path846"
+       cx="75.065933"
+       cy="98.999992"
+       r="14.142858"
+       inkscape:export-filename="C:\Users\grife\OneDrive\Documents\Personal\Software_Dev\EmmaTG.github.io\images\LOGICAL.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583;text-anchor:middle;text-align:center;fill:#ffffff"
+       x="74.784294"
+       y="98.104271"
+       id="text3446"
+       inkscape:export-filename="C:\Users\grife\OneDrive\Documents\Personal\Software_Dev\EmmaTG.github.io\images\LOGICAL.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3444"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583;text-anchor:middle;text-align:center;fill:#ffffff;font-size:4.23333333px"
+         x="67.02079"
+         y="98.104271">LOGICAL</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583;text-anchor:middle;text-align:center;fill:#ffffff;font-size:4.23333333px"
+         x="67.02079"
+         y="102.51398"
+         id="tspan5032">THINKER</tspan></text>
+    <circle
+       style="opacity:1;fill:#291447;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stop-color:#000000;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path846-7"
+       cx="114.42892"
+       cy="99.235832"
+       r="14.142858"
+       inkscape:export-filename="C:\Users\grife\OneDrive\Documents\Personal\Software_Dev\EmmaTG.github.io\images\MOTIVATED.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#ffffff"
+       x="114.14728"
+       y="98.340111"
+       id="text3446-3"
+       inkscape:export-filename="C:\Users\grife\OneDrive\Documents\Personal\Software_Dev\EmmaTG.github.io\images\MOTIVATED.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:center;text-anchor:middle;stroke-width:0.264583;font-size:4.23333333px;fill:#ffffff"
+         x="114.14728"
+         y="98.340111"
+         id="tspan5032-0">SELF</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:center;text-anchor:middle;stroke-width:0.264583;font-size:4.23333333px;fill:#ffffff"
+         x="114.14728"
+         y="104.51373"
+         id="tspan14446">MOTIVATED</tspan></text>
+    <circle
+       style="opacity:1;fill:#291447;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stop-color:#000000;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path846-2"
+       cx="114.42891"
+       cy="131.16054"
+       r="14.142858"
+       inkscape:export-filename="C:\Users\grife\OneDrive\Documents\Personal\Software_Dev\EmmaTG.github.io\images\PROBLEM.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#ffffff"
+       x="114.14728"
+       y="130.26482"
+       id="text3446-7"
+       inkscape:export-filename="C:\Users\grife\OneDrive\Documents\Personal\Software_Dev\EmmaTG.github.io\images\PROBLEM.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#ffffff;font-size:4.23333333px"
+         x="114.14728"
+         y="130.26482"
+         id="tspan5032-7">PROBLEM</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#ffffff;font-size:4.23333333px"
+         x="114.14728"
+         y="136.43843"
+         id="tspan16826">SOLVER</tspan></text>
+    <circle
+       style="opacity:1;fill:#291447;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stop-color:#000000;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path846-1"
+       cx="75.773094"
+       cy="130.19894"
+       r="14.142858"
+       inkscape:export-filename="C:\Users\grife\OneDrive\Documents\Personal\Software_Dev\EmmaTG.github.io\images\LEARNER.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+       x="75.491455"
+       y="129.30322"
+       id="text3446-1"
+       inkscape:export-filename="C:\Users\grife\OneDrive\Documents\Personal\Software_Dev\EmmaTG.github.io\images\LEARNER.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="75.491455"
+         y="129.30322"
+         id="tspan20809">LIFE LONG </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="75.491455"
+         y="134.59488"
+         id="tspan73051">LEARNER</tspan></text>
+  </g>
+</svg>
